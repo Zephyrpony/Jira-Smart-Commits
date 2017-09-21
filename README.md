@@ -38,3 +38,7 @@ Put Smart Commit comment into commit description without angle brackets
 
 Test 8
 Send Smart Commit comment to PYR-12 from this github account
+FAILED - Email from Jira saying that PYR-12 does not exist
+
+Test 9
+Add gmail account back inand test as test 7
