@@ -31,3 +31,7 @@ Test with angle brackets around issue key and comment text
 
 Test 6
 Put Smart Commit comment into commit title without angle brackets
+TEST 6 WAS SUCCESSFUL in sending text "Test without brackets inside github commit title" to Comments section in Jira AND a commit update to Developer section in Jira
+
+Test 7
+Put Smart Commit comment into commit description without angle brackets
