@@ -42,6 +42,8 @@ FAILED - Email from Jira saying that PYR-12 does not exist
 
 Test 9
 Add gmail account back inand test as test 7
+SUCCESS
 
 Test 10
 Make GA email account private again
+FAILED
