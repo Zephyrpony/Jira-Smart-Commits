@@ -28,3 +28,6 @@ Test 5
 Test with angle brackets around issue key and comment text
 
 <WT-3> #comment <Test with angle brackets around issue key and comment text>
+
+Test 6
+Put Smart Commit comment into commit title without angle brackets
