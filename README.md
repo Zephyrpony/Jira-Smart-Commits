@@ -46,4 +46,4 @@ SUCCESS
 
 Test 10
 Make GA email account private again
-FAILED
+FAILED - writes to Development section but does not update Comments section
