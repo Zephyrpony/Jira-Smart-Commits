@@ -50,3 +50,8 @@ FAILED - writes to Development section but does not update Comments section
 
 Test 11
 Uncheck "Block command line pushes that expose my email"
+FAILED as Test 10
+
+Test 12
+Uncheck "Keep my email address private"
+
