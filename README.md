@@ -23,3 +23,8 @@ Test 4
 Include some angle brackets
 
 <WT-3> #comment Test with angle brackets around issue key
+
+Test 5
+Test with angle brackets around issue key and comment text
+
+<WT-3> #comment <Test with angle brackets around issue key and comment text>
