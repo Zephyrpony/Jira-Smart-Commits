@@ -47,3 +47,6 @@ SUCCESS
 Test 10
 Make GA email account private again
 FAILED - writes to Development section but does not update Comments section
+
+Test 11
+Uncheck "Block command line pushes that expose my email"
