@@ -54,4 +54,5 @@ FAILED as Test 10
 
 Test 12
 Uncheck "Keep my email address private"
+SUCCESS
 
