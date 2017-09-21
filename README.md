@@ -35,3 +35,6 @@ TEST 6 WAS SUCCESSFUL in sending text "Test without brackets inside github commi
 
 Test 7
 Put Smart Commit comment into commit description without angle brackets
+
+Test 8
+Send Smart Commit comment to PYR-12 from this github account
