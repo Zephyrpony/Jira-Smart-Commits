@@ -11,3 +11,10 @@ Test 2
 Send comment to jira issue (issuetype = task) from GitHub to jira with GA email address as primary
 
 WT-5 #comment Test comments to task (GA email as primary)
+
+Test 1 and 2 unsuccessful
+
+Test 3
+Make primary email address public and reomve secondary email 
+
+WT-3 #comment Test 3 change email addresses
