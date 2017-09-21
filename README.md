@@ -18,3 +18,8 @@ Test 3
 Make primary email address public and reomve secondary email 
 
 WT-3 #comment Test 3 change email addresses
+
+Test 4
+Include some angle brackets
+
+<WT-3> #comment Test with angle brackets around issue key
