@@ -62,3 +62,7 @@ SUCCESS
 
 Test 18
 Change primary email address to gmail 
+FAILED - updates commits in Development section but does not update Commenst
+
+Test 19
+Change primary email back to GA 
