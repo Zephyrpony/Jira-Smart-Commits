@@ -60,3 +60,5 @@ Test 15
 Demonstate Smart Commits comments to gaautobots 
 SUCCESS
 
+Test 18
+Change primary email address to gmail 
