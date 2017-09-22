@@ -66,3 +66,5 @@ FAILED - updates commits in Development section but does not update Commenst
 
 Test 19
 Change primary email back to GA 
+SUCCESS - both Development and COments sections updated
+
